@@ -1,5 +1,9 @@
 # Pizza_Sales_SQL-Tableau_Project
 
+![image](https://github.com/adarshukla3005/Pizza_Sales_SQL-Tableau_Project/assets/122630902/8dad6c07-2f8d-4f43-a336-60ca7a4ae16f)
+
+
+
 Problem Statement:
 
 
