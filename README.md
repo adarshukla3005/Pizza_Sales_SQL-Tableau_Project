@@ -16,7 +16,7 @@ Problem Statement:
 
 
 Report1
-![Report1](https://github.com/adarshukla3005/Pizza_Sales_SQL-Tableau_Project/assets/122630902/c1f68742-dfdf-42f4-9660-196955a46bcd)
+![image](https://github.com/adarshukla3005/Pizza_Sales_SQL-Tableau_Project/assets/122630902/35d4cd73-d8af-4588-ba08-ee19e62df4ce)
 
 
 Report2
